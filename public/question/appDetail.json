@@ -1,0 +1,17 @@
+{
+    "message": "",
+    "code": "200",
+    "data": {
+        "id": "3",
+        "title": "无法购买商品?",
+        "content": "<p>1.请先检查微信是否有钱；</p><p>2.请确认余额是否有钱</p><p><a href='www.baidu.com' rel='noopener noreferrer' target='_blank'>www.baidu.com</a></p><p>字体，加粗</p>",
+        "userId": "1",
+        "status": "1",
+        "isSystem": "0",
+        "pushTime": "1589526568",
+        "createtime": "1589526568",
+        "updatetime": "0",
+        "isdel": "0"
+    },
+    "result": "1"
+}

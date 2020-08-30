@@ -1,0 +1,15 @@
+{
+    "code": "200",
+    "data": [{
+        "company": "华为科技",
+        "createtime": "1598780334",
+        "id": "242",
+        "isdel": "0",
+        "job": "保安",
+        "patientId": "720",
+        "remark": "无",
+        "updatetime": "0"
+    }],
+    "message": "",
+    "result": "1"
+}

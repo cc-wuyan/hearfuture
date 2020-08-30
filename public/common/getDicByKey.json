@@ -1,0 +1,42 @@
+{
+    "code": "200",
+    "data": [{
+            "author_id": "4",
+            "createtime": "0",
+            "deep": "3",
+            "id": "99",
+            "isdel": "0",
+            "key": "fumu",
+            "left": "227",
+            "note": "父母",
+            "pid": "98",
+            "pkey": "relationship",
+            "right": "228",
+            "status": "1",
+            "title": "父母",
+            "tmp": "0",
+            "updatetime": "1598602891",
+            "value": "父母"
+        },
+        {
+            "author_id": "5",
+            "createtime": "1590043290",
+            "deep": "3",
+            "id": "130",
+            "isdel": "0",
+            "key": "xiongdi",
+            "left": "229",
+            "note": "",
+            "pid": "98",
+            "pkey": "relationship",
+            "right": "230",
+            "status": "1",
+            "title": "兄弟",
+            "tmp": "0",
+            "updatetime": "1590043290",
+            "value": "兄弟"
+        }
+    ],
+    "message": "",
+    "result": "1"
+}

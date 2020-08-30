@@ -1,0 +1,102 @@
+{
+    "message": "",
+    "code": "200",
+    "data": {
+        "id": "224",
+        "patientNum": "20200721720",
+        "truename": "章新发",
+        "phone": "19503131115",
+        "matcherId": "55",
+        "avatar": "",
+        "birthday": "2012-07-11",
+        "isdel": "0",
+        "createtime": "1591063732",
+        "updatetime": "1591064010",
+        "patientId": "247",
+        "cardNum": "430681197092056623",
+        "payRole": "",
+        "suggestLeader": "",
+        "memberLevel": "",
+        "education": "",
+        "social": "",
+        "life": "",
+        "sport": "",
+        "socialContact": "",
+        "hobby": "",
+        "nation": "汉族",
+        "pathogeny": "zhongeryan",
+        "disease": "",
+        "ageIllness": "",
+        "level": "",
+        "ear": "all",
+        "source": "xianxia",
+        "remark": "听力",
+        "age": "8",
+        "sex": "1",
+        "wechat": "wechat001",
+        "area": "110000,110100,110101",
+        "areaCode": "",
+        "address": "深圳市宝安区",
+        "workPlace": "小米科技",
+        "email": "zxl@qq.com",
+        "attendant": "赵文卓",
+        "relation": "fumu",
+        "attendantMobile": "",
+        "attendantPhone": "13266664444",
+        "sharePhone": "13077995907",
+        "relative": [],
+        "family": [{
+                "id": "10",
+                "patientId": "256",
+                "truename": "赵文卓",
+                "relation": "fumu",
+                "company": "华为科技",
+                "job": "保安",
+                "phone": "13266664444",
+                "remark": "无",
+                "createtime": "1593486389",
+                "updatetime": "1593486389",
+                "isdel": "0"
+            },
+            {
+                "id": "11",
+                "patientId": "256",
+                "truename": "章亮",
+                "relation": "xiongdi",
+                "company": "华为科技",
+                "job": "清洁工",
+                "phone": "18256325632",
+                "remark": "无",
+                "createtime": "1593486389",
+                "updatetime": "1593486389",
+                "isdel": "0"
+            }
+        ],
+        "habbit": {
+            "character": "活泼",
+            "life": "早睡早起",
+            "love": "打篮球",
+            "remark": "无"
+        },
+        "work": [{
+            "company": "华为科技",
+            "createtime": "1598780334",
+            "id": "242",
+            "isdel": "0",
+            "job": "保安",
+            "patientId": "720",
+            "remark": "无",
+            "updatetime": "0"
+        }],
+        "records": [{
+                "first": "1",
+                "createtime": "2020-06-29"
+            },
+            {
+                "first": "0",
+                "createtime": "2020-06-30"
+            }
+        ]
+    },
+    "result": "1"
+}

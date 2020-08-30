@@ -1,0 +1,87 @@
+{
+    "message": "操作成功",
+    "code": "100001",
+    "data": [{
+            "id": "1",
+            "title": "足球场",
+            "pic": "../static/image/noiseScene3.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "2",
+            "title": "繁华的马路",
+            "pic": "../static/image/noiseScene2.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "3",
+            "title": "有风的户外",
+            "pic": "../static/image/noiseScene7.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "4",
+            "title": "场景4",
+            "pic": "../static/image/noiseScene1.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "5",
+            "title": "场景5",
+            "pic": "../static/image/noiseScene4.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "6",
+            "title": "场景6",
+            "pic": "../static/image/noiseScene5.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "7",
+            "title": "场景7",
+            "pic": "../static/image/noiseScene6.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "8",
+            "title": "场景8",
+            "pic": "../static/image/noiseScene8.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        },
+        {
+            "id": "9",
+            "title": "场景9",
+            "pic": "../static/image/noiseScene9.png",
+            "sort": "1",
+            "createtime": "1594028333",
+            "updatetime": "1594028360",
+            "isdel": "0"
+        }
+    ],
+    "result": "1"
+}
