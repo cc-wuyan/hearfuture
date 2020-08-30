@@ -1,0 +1,27 @@
+{
+    "message": "",
+    "code": "200",
+    "data": {
+        "total": "2",
+        "rows": [{
+                "visitTime": "2020-08-02 11:02:28",
+                "visitContent": "",
+                "createTime": "2020-08-02 11:02:28",
+                "type": "复诊",
+                "truename": "刘小芳",
+                "name": "张飞",
+                "phone": "13202344492"
+            },
+            {
+                "visitTime": "2020-08-02 11:02:28",
+                "visitContent": "问题不大",
+                "createTime": "2020-08-02 11:02:28",
+                "type": "复诊",
+                "truename": "刘小芳",
+                "name": "刘备",
+                "phone": "13202344492"
+            }
+        ]
+    },
+    "result": "1"
+}

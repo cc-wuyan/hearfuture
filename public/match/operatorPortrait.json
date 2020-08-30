@@ -1,0 +1,13 @@
+{
+    "message": "",
+    "code": "200",
+    "data": [{
+        "flow": "100",
+        "success": "60",
+        "share": "20",
+        "time": "50",
+        "average": "30",
+        "username": "李鹏民"
+    }],
+    "result": "1"
+}

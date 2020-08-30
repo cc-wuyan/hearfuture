@@ -1,0 +1,28 @@
+{
+    "message": "",
+    "code": "200",
+    "data": {
+        "id": "2",
+        "recordId": "240",
+        "leftDegree": "2",
+        "rightDegree": "2",
+        "leftNature": "2",
+        "rightNature": "1",
+        "leftDisease": "3",
+        "rightDisease": "3",
+        "complication": "2",
+        "speechRecognitionRate": "12",
+        "environmentalSpeechRecognitionRate": "12",
+        "visualCompensationRate": "32",
+        "overallDeclineRate": "32",
+        "hearingLoss": "1,2,3",
+        "impactSituation": "2",
+        "otherSituation": "3",
+        "coordination": "8",
+        "mainTalker": "2",
+        "createtime": "1594003962",
+        "updatetime": "0",
+        "isdel": "0"
+    },
+    "result": "1"
+}

@@ -1,0 +1,10 @@
+diff a/vue.config.js b/vue.config.js	(rejected hunks)
+@@ -34,7 +34,7 @@
+ }
+ module.exports = {
+     publicPath: './', // 官方要求修改路径在这里做更改，默认是根目录下，可以自行配置
+-    outputDir: 'f:/TYWL', //标识是打包哪个文件
++    outputDir: './dist', //标识是打包哪个文件
+     assetsDir: 'public',
+     pages: page,
+     productionSourceMap: false,

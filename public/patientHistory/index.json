@@ -1,0 +1,16 @@
+{
+    "message": "",
+    "code": "200",
+    "data": [{
+        "checkTime": "2020-08-05",
+        "content": "再持续观察一周",
+        "id": "247",
+        "images": [
+            "../static/image/effectEstimation.png"
+        ],
+        "organization": "华为科技",
+        "result": "暂无发现病因",
+        "type": "阻抗检测报告"
+    }],
+    "result": "1"
+}
